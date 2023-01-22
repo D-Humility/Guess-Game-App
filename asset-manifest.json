@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Guess-Game-App/static/css/main.505b8201.css",
-    "main.js": "/Guess-Game-App/static/js/main.1626791e.js",
+    "main.js": "/Guess-Game-App/static/js/main.bd3540bb.js",
     "index.html": "/Guess-Game-App/index.html",
     "main.505b8201.css.map": "/Guess-Game-App/static/css/main.505b8201.css.map",
-    "main.1626791e.js.map": "/Guess-Game-App/static/js/main.1626791e.js.map"
+    "main.bd3540bb.js.map": "/Guess-Game-App/static/js/main.bd3540bb.js.map"
   },
   "entrypoints": [
     "static/css/main.505b8201.css",
-    "static/js/main.1626791e.js"
+    "static/js/main.bd3540bb.js"
   ]
 }
